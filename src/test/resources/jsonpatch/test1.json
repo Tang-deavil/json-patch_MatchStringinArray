@@ -1,0 +1,67 @@
+{
+  "product": {
+    "namespace": {
+      "id": "",
+      "name": "DEMOMA"
+    },
+    "productType": "DEFAULT",
+    "nameVersion": {
+      "name": "yy543",
+      "version": ""
+    },
+    "id": "",
+    "identifier": "37",
+    "externalId": "",
+    "deployed": "",
+    "state": "DRAFT",
+    "refId1": "",
+    "refId2": "",
+    "description": "",
+    "family": {
+      "familyName": "Default"
+    },
+    "activationMethod": "SAOT",
+    "fixedQuantity": 1,
+    "customAttributes": {
+      "customAttribute": []
+    },
+    "productFeatures": {
+      "productFeature": [],
+      "Default_LM_LDK": true
+    },
+    "productAttributes": {
+      "productAttribute": []
+    },
+    "enforcement": {
+      "name": "Sentinel LDK"
+    },
+    "isLDKEnforcement": true,
+    "extnLDK": {
+      "isNotLockedToDevice": false,
+      "lockingType": "HL_or_SL_AdminMode_or_SL_UserMode",
+      "upgradeToDriverless": false,
+      "vclock": false,
+      "rehostState": "DISABLE",
+      "cloneProtection": "Platform Default",
+      "prdMemoryReferences": {
+        "memoryFile": [
+          {
+            "id": "b4a80cc7-4799-4ce1-8d03-e5aa427b7091",
+            "fileName": "TestMemory2",
+            "fileId": 3,
+            "fileType": "READ_WRITE",
+            "offset": "0x0000",
+            "size": "0",
+            "text": "",
+            "allowTextOverwrite": "",
+            "enableDelete": "",
+            "applyMemory": "ADD"
+          }
+        ]
+      }
+    }
+  },
+  "system": {
+    "comments": ""
+  }
+}
